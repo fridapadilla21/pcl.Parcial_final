@@ -1,3 +1,5 @@
+# link: https://replit.com/join/xtlnjqzamj-frida-paulinapa
+
 clitotales = 0 #clientes totales
 clisi = 0 #clientes qeu no compraron
 clino = 0 #clientes que no compraron
